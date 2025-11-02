@@ -72,6 +72,7 @@ This project demonstrates a complete end-to-end data analytics workflow — from
 ## 🏁 Results
 
 This analysis reveals how age, gender, and subscription status affect spending. It helps retailers optimize marketing strategies and customer retention programs.
+<img width="1366" height="768" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/6d54d332-645d-4988-b186-31cc2d039fa6" />
 
 ---
 
